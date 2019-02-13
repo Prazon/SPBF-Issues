@@ -7,8 +7,8 @@ When submitting an issue that is not already present in the issue tracker please
 **Please provide the following:**
 - Detailed description of the problem along with the steps to reproduce it if possible.
 - Operating System and OS version.
--- Windows -> Press Windows key + R and then type `winver` and press enter.
--- Linux -> You probably know how to do it... Open terminal, type `uname -a` and press enter.
+  - Windows -> Press Windows key + R and then type `winver` and press enter.
+  - Linux -> You probably know how to do it... Open terminal, type `uname -a` and press enter.
 - System hardware components.
--- CPU
--- GPU
+  - CPU
+  - GPU
