@@ -1,13 +1,9 @@
 ---
+name: Bug Report
+about: Report bugs in SPBF
 title: 'Bug report'
 labels: 'Create a report to help us improve'
 assignees: ''
-
----
-
----
-name: Bug Report
-about: Report bugs in SPBF
 
 ---
 
