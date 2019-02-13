@@ -1,3 +1,9 @@
+---
+name: Bug Report
+about: Report bugs in SPBF
+
+---
+
 ## System Information
 - CPU: <!-- e.g. Intel i7 7700 or AMD Ryzen 1700 -->
 - GPU: <!-- e.g. RX 580 or GTX 970 -->
