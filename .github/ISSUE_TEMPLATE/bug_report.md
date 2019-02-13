@@ -13,11 +13,15 @@ assignees: ''
    - Driver/LLVM version: <!-- e.g. Mesa 18.2/7.0.0 or nvidia 396.54 -->
 - OS:  <!-- e.g. Ubuntu 18.04 or Windows 10 -->
 
-<!-- You might want to add the log file, you will find that inside
- the game folder under SPBF/Saved/Logs. Just drag and drop the file here: -->
+<!-- You might want to add the log file, you will find that inside the game
+     folder under SPBF/Saved/Logs. Just drag and drop the file here: -->
 
 
 ## Symptoms <!-- What's the problem? -->
 
 
 ## Reproduction <!-- If possible try to explain how to reproduce the issue -->
+
+
+<!-- If you have screenshots which show the bug,
+     you can drag and drop them here -->
