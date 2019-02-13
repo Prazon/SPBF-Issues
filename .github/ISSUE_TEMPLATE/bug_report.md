@@ -1,5 +1,5 @@
 ---
-name: Bug Report
+name: 
 about: Report bugs in SPBF
 title: 'Bug report'
 labels: 'Create a report to help us improve'
