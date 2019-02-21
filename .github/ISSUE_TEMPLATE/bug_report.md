@@ -1,7 +1,8 @@
 ---
-name: 'Bug report'
+name: Bug report
 about: Report bugs in SPBF
-labels: 'Create a report to help us improve'
+title: ''
+labels: ''
 assignees: ''
 
 ---
@@ -11,6 +12,7 @@ assignees: ''
 - GPU: <!-- e.g. RX 580 or GTX 970 -->
    - Driver/LLVM version: <!-- e.g. Mesa 18.2/7.0.0 or nvidia 396.54 -->
 - OS:  <!-- e.g. Ubuntu 18.04 or Windows 10 -->
+- BUILDID: <!-- build ID is displayed in Main Menu at the top left -->
 
 <!-- You might want to add the log file, you will find that inside the game
      folder under SPBF/Saved/Logs. Just drag and drop the file here: -->
