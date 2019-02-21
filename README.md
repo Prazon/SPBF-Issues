@@ -9,6 +9,8 @@ When submitting an issue that is not already present in the issue tracker please
 - Operating System and OS version.
   - Windows -> Press Windows key + R and then type `winver` and press enter.
   - Linux -> You probably know how to do it... Open terminal, type `uname -a` and press enter.
+- SPBF Build ID
+  - Look at the top left of the main menu or while in a match
 - System hardware components.
   - CPU
   - GPU
